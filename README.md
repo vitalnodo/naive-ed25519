@@ -1,6 +1,7 @@
 # Ed25519
 
 A naive implementation of ed25519 arithmetic using golang big.Int
+And... eddsa!
 
 ## Links
 [Ed25519: high-speed high-security signatures](https://ed25519.cr.yp.to/)
@@ -13,4 +14,4 @@ A naive implementation of ed25519 arithmetic using golang big.Int
 
 [Point addition and doubling in Ed25519 (ref10)?](https://crypto.stackexchange.com/questions/16081/point-addition-and-doubling-in-ed25519-ref10)
 
-[noble-ed25519](https://github.com/paulmillr/noble-ed25519)
+[paulmillr/noble-ed25519](https://github.com/paulmillr/noble-ed25519)
